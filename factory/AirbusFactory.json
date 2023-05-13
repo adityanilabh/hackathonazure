@@ -1,0 +1,9 @@
+{
+	"name": "AirbusFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "be9c1896-c034-42bd-9018-125d2b3656df",
+		"tenantId": "ada09ae6-1ed0-44fb-8b9e-ab3f316c9ebe"
+	}
+}
