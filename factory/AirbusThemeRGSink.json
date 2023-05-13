@@ -1,0 +1,9 @@
+{
+	"name": "AirbusThemeRGSink",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8bfa9f42-1e85-453d-8901-2e743988b89a",
+		"tenantId": "ada09ae6-1ed0-44fb-8b9e-ab3f316c9ebe"
+	}
+}
